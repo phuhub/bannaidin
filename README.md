@@ -1,4 +1,4 @@
-# shoppingcartvuex
+# Bannaidin
 
 ## Project setup
 ```
